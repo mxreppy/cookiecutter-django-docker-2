@@ -74,3 +74,7 @@ The following details how to deploy this application.
 ### Docker
 
 See detailed [cookiecutter-django Docker documentation](http://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html).
+
+
+
+want to use this to fiddle with k8s: https://dev.to/mkalioby/series/16205
